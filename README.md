@@ -1,7 +1,7 @@
 # mysql-udf-windows
 Compiling Your Own UDF Libraries on Windows 7 &amp; 10
 
-Author: Software Engineer @ [shipshuk](www.shipshuk.com)
+Author: Software Engineer @ link:www.shipshuk.com[shipshuk]
 
 This document explains how to install/compile your UDF DLLs on MYSQL57 / MySQL8 on Windows 7 / Windows 10 operating systems.
 
